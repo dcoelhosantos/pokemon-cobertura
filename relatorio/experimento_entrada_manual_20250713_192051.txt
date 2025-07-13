@@ -1,0 +1,17 @@
+RELATÓRIO DO EXPERIMENTO
+
+Caso de teste: entrada_manual
+
+--- Entrada ---
+Tipos disponíveis: ['Sombrio', 'Fantasma', 'Psíquico', 'Fogo', 'Elétrico', 'Água', 'Gelo', 'Aço', 'Terrestre', 'Venenoso']
+Número de ataques permitidos: 4
+
+=== Algoritmo Exaustivo ===
+Solução: ('Sombrio', 'Psíquico', 'Gelo', 'Terrestre')
+Cobre 13 tipos: {'Venenoso', 'Veneno', 'Planta', 'Aço', 'Voador', 'Pedra', 'Fantasma', 'Psíquico', 'Lutador', 'Elétrico', 'Terrestre', 'Fogo', 'Dragão'}
+Tempo: 0.000551 s
+
+=== Algoritmo Guloso ===
+Solução: ['Terrestre', 'Gelo', 'Aço', 'Sombrio']
+Cobre 13 tipos: {'Veneno', 'Planta', 'Aço', 'Pedra', 'Voador', 'Gelo', 'Fantasma', 'Psíquico', 'Fada', 'Elétrico', 'Terrestre', 'Fogo', 'Dragão'}
+Tempo: 0.000113 s

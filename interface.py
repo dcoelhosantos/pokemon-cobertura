@@ -21,10 +21,7 @@ def carregar_caso(arquivo):
 
 def salvar_relatorio(nome_base, conteudo):
     os.makedirs('relatorio', exist_ok=True)
-
-    # Gerar timestamp curto para evitar sobrescrita
     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-
     nome_final = f"{nome_base}_{timestamp}.txt"
     caminho = os.path.join('relatorio', nome_final)
 
@@ -36,21 +33,34 @@ def salvar_relatorio(nome_base, conteudo):
 def main():
     print("Casos de teste disponíveis:\n")
     casos = [f for f in os.listdir('casos_teste') if f.endswith('.txt')]
+
+    print("0. Inserir novo caso manualmente")
     for i, nome in enumerate(casos):
         print(f"{i + 1}. {nome}")
 
     while True:
         try:
-            escolha = int(input("\nEscolha o número do caso de teste: "))
-            if 1 <= escolha <= len(casos):
+            escolha = int(input("\nEscolha o número do caso de teste (ou 0 para digitar manualmente): "))
+            if 0 <= escolha <= len(casos):
                 break
             else:
-                print(f"Por favor, digite um número entre 1 e {len(casos)}.")
+                print(f"Por favor, digite um número entre 0 e {len(casos)}.")
         except ValueError:
             print("Entrada inválida. Digite apenas números inteiros.")
-    
-    caso_nome = casos[escolha - 1]
-    tipos_disponiveis, k = carregar_caso(os.path.join('casos_teste', caso_nome))
+
+    if escolha == 0:
+        tipos_input = input("\nDigite os tipos disponíveis separados por vírgula: ")
+        tipos_disponiveis = [t.strip().capitalize() for t in tipos_input.split(',') if t.strip()]
+        while True:
+            try:
+                k = int(input("Digite o número de ataques permitidos: "))
+                break
+            except ValueError:
+                print("Digite um número inteiro válido.")
+        caso_nome = "entrada_manual"
+    else:
+        caso_nome = casos[escolha - 1]
+        tipos_disponiveis, k = carregar_caso(os.path.join('casos_teste', caso_nome))
 
     print(f"\nTipos disponíveis: {tipos_disponiveis}")
     print(f"Número de ataques: {k}")
