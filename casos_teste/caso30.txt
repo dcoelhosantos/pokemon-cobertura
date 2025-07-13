@@ -1,0 +1,2 @@
+Tipos: Voador, Água, Lutador, Venenoso, Inseto, Planta, Fantasma, Elétrico
+Número de ataques: 6

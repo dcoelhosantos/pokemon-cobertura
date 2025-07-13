@@ -1,0 +1,2 @@
+Tipos: Lutador, Terrestre, Inseto, Fantasma, Dragão, Normal, Voador, Aço
+Número de ataques: 2

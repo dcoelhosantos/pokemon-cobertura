@@ -1,0 +1,2 @@
+Tipos: Fada, Inseto, Lutador, Aço, Dragão, Gelo, Psíquico, Normal
+Número de ataques: 6

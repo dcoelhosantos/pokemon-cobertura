@@ -1,0 +1,2 @@
+Tipos: Psíquico, Fantasma, Normal, Lutador, Sombrio, Voador, Inseto, Venenoso, Terrestre, Gelo
+Número de ataques: 6

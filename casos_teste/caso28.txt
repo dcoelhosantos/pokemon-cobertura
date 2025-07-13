@@ -1,0 +1,2 @@
+Tipos: Voador, Terrestre, Venenoso, Gelo, Dragão, Planta, Inseto, Pedra, Fogo, Aço
+Número de ataques: 4

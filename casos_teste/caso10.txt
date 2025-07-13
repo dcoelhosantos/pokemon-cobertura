@@ -1,0 +1,2 @@
+Tipos: Pedra, Gelo, Psíquico, Elétrico, Fada, Lutador, Fantasma, Planta, Voador, Aço
+Número de ataques: 3

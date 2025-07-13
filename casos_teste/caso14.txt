@@ -1,0 +1,2 @@
+Tipos: Lutador, Fogo, Sombrio, Psíquico, Água, Fantasma
+Número de ataques: 2

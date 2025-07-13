@@ -1,0 +1,2 @@
+Tipos: Lutador, Terrestre, Dragão, Sombrio, Normal, Água, Voador, Gelo, Planta, Psíquico
+Número de ataques: 2

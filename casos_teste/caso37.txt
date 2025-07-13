@@ -1,0 +1,2 @@
+Tipos: Dragão, Psíquico, Gelo, Terrestre, Voador, Planta, Fogo, Aço, Sombrio
+Número de ataques: 5

@@ -1,0 +1,2 @@
+Tipos: Água, Aço, Gelo, Pedra, Fada, Fantasma, Normal, Lutador
+Número de ataques: 5

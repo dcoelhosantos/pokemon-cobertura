@@ -1,0 +1,2 @@
+Tipos: Lutador, Elétrico, Fogo, Fada, Normal, Inseto, Voador
+Número de ataques: 2

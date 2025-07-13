@@ -1,0 +1,2 @@
+Tipos: Pedra, Fogo, Inseto
+Número de ataques: 2

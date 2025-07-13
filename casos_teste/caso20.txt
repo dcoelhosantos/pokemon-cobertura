@@ -1,0 +1,2 @@
+Tipos: Venenoso, Normal, Aço, Sombrio, Fogo, Água
+Número de ataques: 3

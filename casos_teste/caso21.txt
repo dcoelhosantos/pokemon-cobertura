@@ -1,0 +1,2 @@
+Tipos: Fada, Normal, Aço, Sombrio
+Número de ataques: 1

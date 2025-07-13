@@ -1,0 +1,17 @@
+RELATÓRIO DO EXPERIMENTO
+
+Caso de teste: caso17.txt
+
+--- Entrada ---
+Tipos disponíveis: ['Voador', 'Inseto', 'Planta', 'Terrestre', 'Gelo', 'Normal', 'Elétrico', 'Sombrio', 'Fantasma', 'Lutador']
+Número de ataques permitidos: 3
+
+=== Algoritmo Exaustivo ===
+Solução: ('Terrestre', 'Gelo', 'Lutador')
+Cobre 12 tipos: {'Sombrio', 'Terrestre', 'Elétrico', 'Voador', 'Gelo', 'Planta', 'Normal', 'Pedra', 'Aço', 'Dragão', 'Veneno', 'Fogo'}
+Tempo: 0.000272 s
+
+=== Algoritmo Guloso ===
+Solução: ['Terrestre', 'Gelo', 'Lutador']
+Cobre 12 tipos: {'Sombrio', 'Terrestre', 'Elétrico', 'Voador', 'Gelo', 'Planta', 'Normal', 'Pedra', 'Aço', 'Dragão', 'Veneno', 'Fogo'}
+Tempo: 0.000087 s

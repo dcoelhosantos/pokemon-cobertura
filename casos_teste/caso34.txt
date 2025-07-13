@@ -1,0 +1,2 @@
+Tipos: Lutador, Psíquico, Sombrio, Elétrico, Fogo, Pedra, Fantasma, Água, Aço, Dragão
+Número de ataques: 5

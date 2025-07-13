@@ -1,0 +1,2 @@
+Tipos: Lutador, Água, Normal, Sombrio, Fada, Fantasma, Aço, Venenoso, Planta
+Número de ataques: 2

@@ -1,0 +1,2 @@
+Tipos: Lutador, Planta, Elétrico, Gelo
+Número de ataques: 1

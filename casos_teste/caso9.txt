@@ -1,0 +1,2 @@
+Tipos: Psíquico, Inseto, Aço, Planta, Água
+Número de ataques: 1

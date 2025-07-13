@@ -1,0 +1,2 @@
+Tipos: Fantasma, Pedra, Normal, Venenoso, Lutador
+Número de ataques: 5

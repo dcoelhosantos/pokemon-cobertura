@@ -1,0 +1,2 @@
+Tipos: Inseto, Aço, Sombrio, Planta, Dragão, Voador, Lutador
+Número de ataques: 3

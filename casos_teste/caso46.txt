@@ -1,0 +1,2 @@
+Tipos: Planta, Dragão, Elétrico, Gelo, Fantasma, Venenoso, Pedra, Terrestre
+Número de ataques: 3

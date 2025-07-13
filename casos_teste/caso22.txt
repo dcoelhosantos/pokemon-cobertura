@@ -1,0 +1,2 @@
+Tipos: Água, Aço, Planta, Dragão, Terrestre, Voador
+Número de ataques: 1

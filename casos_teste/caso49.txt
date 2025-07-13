@@ -1,0 +1,2 @@
+Tipos: Sombrio, Terrestre, Fantasma, Aço, Voador
+Número de ataques: 5

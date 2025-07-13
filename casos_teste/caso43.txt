@@ -1,0 +1,2 @@
+Tipos: Venenoso, Lutador, Fada, Normal, Dragão, Pedra, Elétrico, Sombrio, Psíquico
+Número de ataques: 4

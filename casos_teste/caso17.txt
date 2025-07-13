@@ -1,0 +1,2 @@
+Tipos: Voador, Inseto, Planta, Terrestre, Gelo, Normal, Elétrico, Sombrio, Fantasma, Lutador
+Número de ataques: 3

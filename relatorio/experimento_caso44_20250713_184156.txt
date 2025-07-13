@@ -1,0 +1,17 @@
+RELATÓRIO DO EXPERIMENTO
+
+Caso de teste: caso44.txt
+
+--- Entrada ---
+Tipos disponíveis: ['Água', 'Pedra', 'Fogo']
+Número de ataques permitidos: 2
+
+=== Algoritmo Exaustivo ===
+Solução: ('Água', 'Fogo')
+Cobre 7 tipos: {'Planta', 'Aço', 'Pedra', 'Gelo', 'Terrestre', 'Inseto', 'Fogo'}
+Tempo: 0.000026 s
+
+=== Algoritmo Guloso ===
+Solução: ['Pedra', 'Fogo']
+Cobre 6 tipos: {'Planta', 'Aço', 'Gelo', 'Voador', 'Inseto', 'Fogo'}
+Tempo: 0.000016 s

@@ -1,0 +1,2 @@
+Tipos: Fogo, Lutador, Planta, Aço, Dragão, Voador, Psíquico, Fantasma, Elétrico
+Número de ataques: 1

@@ -1,0 +1,2 @@
+Tipos: Voador, Inseto, Fogo, Aço, Terrestre, Pedra, Planta, Elétrico, Gelo, Psíquico
+Número de ataques: 4

@@ -1,0 +1,2 @@
+Tipos: Normal, Psíquico, Sombrio, Voador, Fogo, Elétrico, Planta
+Número de ataques: 4

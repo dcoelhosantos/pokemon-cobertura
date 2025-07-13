@@ -1,0 +1,2 @@
+Tipos: Inseto, Voador, Fantasma, Psíquico, Água, Terrestre, Fogo, Elétrico, Planta
+Número de ataques: 3

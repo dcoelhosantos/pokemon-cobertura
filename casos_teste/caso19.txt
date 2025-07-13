@@ -1,0 +1,2 @@
+Tipos: Lutador, Planta, Voador, Inseto
+Número de ataques: 3

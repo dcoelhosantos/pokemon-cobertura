@@ -1,0 +1,2 @@
+Tipos: Fogo, Elétrico, Pedra, Fantasma, Psíquico
+Número de ataques: 3

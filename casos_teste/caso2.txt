@@ -1,0 +1,2 @@
+Tipos: Água, Venenoso, Normal, Fada, Fantasma, Dragão, Elétrico, Lutador, Voador, Fogo
+Número de ataques: 6

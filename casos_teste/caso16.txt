@@ -1,0 +1,2 @@
+Tipos: Aço, Sombrio, Venenoso, Normal, Voador, Água, Planta, Fogo, Fantasma
+Número de ataques: 1

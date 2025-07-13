@@ -1,0 +1,2 @@
+Tipos: Fogo, Lutador, Elétrico, Psíquico, Pedra
+Número de ataques: 2

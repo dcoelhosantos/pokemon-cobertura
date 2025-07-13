@@ -1,0 +1,2 @@
+Tipos: Água, Sombrio, Venenoso, Dragão, Fogo, Inseto
+Número de ataques: 6

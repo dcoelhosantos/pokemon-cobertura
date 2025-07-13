@@ -1,0 +1,2 @@
+Tipos: Dragão, Lutador, Normal, Fada, Pedra, Venenoso, Elétrico, Água
+Número de ataques: 4

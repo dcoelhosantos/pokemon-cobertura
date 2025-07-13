@@ -1,0 +1,2 @@
+Tipos: Psíquico, Pedra, Inseto, Venenoso
+Número de ataques: 4

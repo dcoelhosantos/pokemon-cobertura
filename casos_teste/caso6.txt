@@ -1,0 +1,2 @@
+Tipos: Lutador, Sombrio, Fada, Água, Terrestre
+Número de ataques: 5

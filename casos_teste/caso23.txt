@@ -1,0 +1,2 @@
+Tipos: Venenoso, Normal, Elétrico, Lutador, Psíquico
+Número de ataques: 5

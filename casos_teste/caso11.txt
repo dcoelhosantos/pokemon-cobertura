@@ -1,0 +1,2 @@
+Tipos: Normal, Lutador, Planta, Fada, Venenoso, Gelo, Dragão, Fogo, Terrestre
+Número de ataques: 3

@@ -1,0 +1,2 @@
+Tipos: Terrestre, Gelo, Fada, Fantasma, Pedra, Normal, Voador, Elétrico, Água, Lutador
+Número de ataques: 2

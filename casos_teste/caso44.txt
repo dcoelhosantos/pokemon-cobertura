@@ -1,0 +1,2 @@
+Tipos: Água, Pedra, Fogo
+Número de ataques: 2
