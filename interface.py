@@ -6,7 +6,7 @@ import time
 import datetime
 
 def carregar_caso(arquivo):
-    with open(arquivo, 'r') as f:
+    with open(arquivo, 'r', encoding='utf-8') as f:
         linhas = f.readlines()
     
     tipos = []
