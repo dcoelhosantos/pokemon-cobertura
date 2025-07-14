@@ -17,6 +17,8 @@ Dois algoritmos foram implementados:
 
 └── README.md # Este arquivo
 
+└── tipos_pokemon.txt # Lista com todos os tipos de pokémon
+
 ## ▶️ Como executar
   1. Execute a interface:
 ```bash
@@ -33,7 +35,7 @@ Tipos: Água, Sombrio, Venenoso, Dragão, Fogo, Inseto
 
 Número de ataques: 6
   
-Você pode adicionar seus próprios arquivos com novos cenários de teste.
+Você pode adicionar seus próprios arquivos com novos cenários de teste. Caso não conheça ou não lembre de todos as tipagens existentes na franquia, recomendo dar uma olhada no arquivo tipos_pokemon.txt.
 
 ## 📄 Relatórios
 Cada execução gera um relatório com:
